@@ -4,5 +4,5 @@ VIN Input: 5-40V
 
 Output: 5V 1A; 3.3V 500mA
 
-| ![PCB](Pictures/PCB.png) | ![Rendered](Pictures/rendered.png) |
+| ![Rendered](Pictures/render front.png) | ![PCB](Pictures/PCB.png) |
 |-------------------------|-----------------------------------|
